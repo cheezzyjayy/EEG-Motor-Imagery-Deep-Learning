@@ -16,15 +16,15 @@ Developed as part of my undergraduate research focus at **Washington University 
 
 #### 1. Performance Benchmark
 Comparison of CSP, Riemannian, FBCSP, and EEGNet.
-![Benchmark](Advanced BCI Pipeline.png)
+[![Benchmark](Advanced BCI Pipeline.png)](https://github.com/cheezzyjayy/EEG-Motor-Imagery-Deep-Learning/blob/main/Advanced%20BCI%20Pipeline.png)
 
 #### 2. Neurophysiological Validation (ERD/ERS)
 Time-frequency analysis showing distinct **Mu rhythm (8-12Hz) suppression** in the motor cortex, validating the biological basis of the decoding.
-![ERD Analysis]([Neural Dynamics (ERD/ERS).png](https://github.com/cheezzyjayy/EEG-Motor-Imagery-Deep-Learning/blob/main/Neural%20Dynamics%20(ERD%3AERS).png))
+([Neural Dynamics (ERD/ERS).png](https://github.com/cheezzyjayy/EEG-Motor-Imagery-Deep-Learning/blob/main/Neural%20Dynamics%20(ERD%3AERS).png))
 
 #### 3. Spatial Patterns (Topomap)
 Visualization of spatial filters learned by the model, highlighting activation in the C3/C4 sensorimotor areas.
-![Topomap](Spatial CSP Patterns.png)
+https://github.com/cheezzyjayy/EEG-Motor-Imagery-Deep-Learning/blob/main/Spatial%20CSP%20Patterns.png
 
 ---
 

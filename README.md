@@ -16,7 +16,7 @@ Developed as part of my undergraduate research focus at **Washington University 
 
 #### 1. Performance Benchmark
 Comparison of CSP, Riemannian, FBCSP, and EEGNet.
-[[Benchmark](https://github.com/cheezzyjayy/EEG-Motor-Imagery-Deep-Learning/blob/main/Advanced%20BCI%20Pipeline.png)
+([Benchmark](https://github.com/cheezzyjayy/EEG-Motor-Imagery-Deep-Learning/blob/main/Advanced%20BCI%20Pipeline.png))
 
 #### 2. Neurophysiological Validation (ERD/ERS)
 Time-frequency analysis showing distinct **Mu rhythm (8-12Hz) suppression** in the motor cortex, validating the biological basis of the decoding.

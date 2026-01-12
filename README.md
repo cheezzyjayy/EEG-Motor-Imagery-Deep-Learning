@@ -16,16 +16,15 @@ Developed as part of my undergraduate research focus at **Washington University 
 
 #### 1. Performance Benchmark
 Comparison of CSP, Riemannian, FBCSP, and EEGNet.
-*(此处插入你的 benchmark_plot.png 图片链接，见下文教程)*
-![Benchmark](benchmark_plot.png)
+![Benchmark](Advanced BCI Pipeline.png)
 
 #### 2. Neurophysiological Validation (ERD/ERS)
 Time-frequency analysis showing distinct **Mu rhythm (8-12Hz) suppression** in the motor cortex, validating the biological basis of the decoding.
-![ERD Analysis](erd_ers_plot.png)
+![ERD Analysis](Neural Dynamics (ERD/ERS).png)
 
 #### 3. Spatial Patterns (Topomap)
 Visualization of spatial filters learned by the model, highlighting activation in the C3/C4 sensorimotor areas.
-![Topomap](topomap.png)
+![Topomap](Spatial CSP Patterns.png)
 
 ---
 
